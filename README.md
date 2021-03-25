@@ -1,2 +1,2 @@
 # Hospital-Project
-My first eepository
+My first repository
